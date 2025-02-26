@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:test/habit_home_page.dart';
-import 'package:test/sign_up_page.dart';
 
 void main() {
   runApp(const MyApp());
